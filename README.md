@@ -3,7 +3,7 @@
  
  Note: This was part of my studies course work project.
  
- **Program Behavior**
+ ### Program Behavior
  
  Program starts by asking the user the number of days they want to analyze:
  
@@ -55,7 +55,8 @@ In both cases above Y.YY is the placeholder for the average of the jogging dista
 Program ends after the printout
  
  
- **Example Runs**
+ ### Example Runs
+ 
  An example of the output when the program works correctly.
  
  
