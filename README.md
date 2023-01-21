@@ -1,5 +1,5 @@
 ### Jogging-analyzer
- jogging is important for one's health and sprit!
+ jogging is important for one's health and spirit!
  
  Note: This was part of my studies course work project.
  
